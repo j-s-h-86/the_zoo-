@@ -1,0 +1,13 @@
+@use "./animalPresentation";
+@use "./header";
+@use "./animalDetails";
+@use "./home";
+
+html {
+  scroll-behavior: smooth;
+
+  body {
+    margin: 0;
+    width: 100%;
+  }
+}
